@@ -1,0 +1,14 @@
+C:\Users\Public\Myapps\bnbapp\bin\Debug\net10.0\bnbapp.exe
+C:\Users\Public\Myapps\bnbapp\bin\Debug\net10.0\bnbapp.deps.json
+C:\Users\Public\Myapps\bnbapp\bin\Debug\net10.0\bnbapp.runtimeconfig.json
+C:\Users\Public\Myapps\bnbapp\bin\Debug\net10.0\bnbapp.dll
+C:\Users\Public\Myapps\bnbapp\bin\Debug\net10.0\bnbapp.pdb
+C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\bnbapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\bnbapp.AssemblyInfoInputs.cache
+C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\bnbapp.AssemblyInfo.cs
+C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\bnbapp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\bnbapp.dll
+C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\refint\bnbapp.dll
+C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\bnbapp.pdb
+C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\bnbapp.genruntimeconfig.cache
+C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\ref\bnbapp.dll
