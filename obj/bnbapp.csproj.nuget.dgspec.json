@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public\\Myapps\\bnbapp\\bnbapp.csproj": {}
+    "C:\\Users\\public\\myapps\\bnbapp\\bnbapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\Myapps\\bnbapp\\bnbapp.csproj": {
+    "C:\\Users\\public\\myapps\\bnbapp\\bnbapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\Myapps\\bnbapp\\bnbapp.csproj",
+        "projectUniqueName": "C:\\Users\\public\\myapps\\bnbapp\\bnbapp.csproj",
         "projectName": "bnbapp",
-        "projectPath": "C:\\Users\\Public\\Myapps\\bnbapp\\bnbapp.csproj",
+        "projectPath": "C:\\Users\\public\\myapps\\bnbapp\\bnbapp.csproj",
         "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\Myapps\\bnbapp\\obj\\",
+        "outputPath": "C:\\Users\\public\\myapps\\bnbapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config"

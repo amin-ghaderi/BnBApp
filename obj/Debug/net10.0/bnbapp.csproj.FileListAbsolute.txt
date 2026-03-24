@@ -12,3 +12,4 @@ C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\refint\bnbapp.dll
 C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\bnbapp.pdb
 C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\bnbapp.genruntimeconfig.cache
 C:\Users\Public\Myapps\bnbapp\obj\Debug\net10.0\ref\bnbapp.dll
+C:\Users\public\myapps\bnbapp\obj\Debug\net10.0\bnbapp.sourcelink.json
